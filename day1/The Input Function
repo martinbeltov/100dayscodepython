@@ -1,0 +1,7 @@
+# Print Hello + $your name
+
+print ("Hello " + input("What is your name") + "!") 
+
+# The input function expects user input from the console
+input("What is your name?") 
+
