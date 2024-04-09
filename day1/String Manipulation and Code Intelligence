@@ -22,3 +22,8 @@ print ("Hello" + "Martin")
 print ("Hello" + " Martin") 
 
 print ("Hello" + " " + "Martin") 
+
+# String Concatetation means that we merge different strings into one 
+
+
+print ("An example" + " of " + "string" + " concatetation") 
