@@ -1,4 +1,5 @@
 # This file lists completed tasks for Day 1 of the 100 Days of Code Python Bootcamp
+
 # The first recipe example 
 
 print ("1. Mix 500g of Flour, 10g of Yeast and 300ml in a bowl.")
@@ -7,4 +8,19 @@ print ("3. Add 3g of Salt.")
 print ("4. Leave to rise for 2 hours.") 
 print ("5. Bake at 200 degrees C for 30 minutes.") 
 
-  
+# Print Modifiers Example
+
+print ('She said: "Hello" and then left.')
+
+# Here I'm alternating the double quotes with single quotes to print the proper string output. 
+
+# Here I'm using an escape backslash "\" to indicate to the Python interpreter/compiler to "see" the "Hello" greeting as text/string.
+
+print ("She said: \"Hello\" and then left.") 
+
+# More examples
+
+print ("A 'single quote' inside a double quote")
+print ('A "double quote" inside a single quote')
+print ("Alternatively, you can just \"escape\" the quote") 
+
