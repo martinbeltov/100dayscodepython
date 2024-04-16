@@ -5,3 +5,16 @@ print ("Hello " + input("What is your name") + "!")
 # The input function expects user input from the console
 input("What is your name?") 
 
+Input Task Exercise
+
+Write a program that calculates and outputs the number of characters in any name. The automated tests will try out lots of different names as the input. Your code should work for any name. Your code should only output the number, no other text is needed.
+
+
+
+# assign name to input
+name = input()
+
+# use len to calculate the length and print the output
+print(len(name))
+
+
